@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D145D7356B6FD0A2DB34E9FC1E58F7763C79CA71",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D145D7356B6FD0A2DB34E9FC1E58F7763C79CA71" : 0,
+    "A0CD87A54ABBC41C71AC2E800E4D40CB14C24F28" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "10CF1CBC-C209-48E4-9AA7-A7EC811853DC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D145D7356B6FD0A2DB34E9FC1E58F7763C79CA71" : "CALayerFirst\/",
+    "A0CD87A54ABBC41C71AC2E800E4D40CB14C24F28" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CALayerFirst",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CALayerFirst.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JimmyJay2015\/CALayerStudy.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A0CD87A54ABBC41C71AC2E800E4D40CB14C24F28"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/AkeyJimmy\/test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D145D7356B6FD0A2DB34E9FC1E58F7763C79CA71"
+    }
+  ]
+}
